@@ -1,0 +1,41 @@
+.menuCabecera{
+    background-color: #BE1622 ;
+    width: 100%;
+}
+*{
+
+    margin: 0%;
+    padding: 0%;
+}
+.banner{
+    background-color: #1d70b8;
+    width: 100%;
+    height: 120px;
+}
+.cajacolumnas{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
+.columnas{
+    flex: 1;
+    background-color: aqua;
+    border: 1px;
+    text-align: center;
+}
+.colorverde{
+    background-color:  green;
+
+}
+.colornaranja{
+    background-color: orangered;
+}
+.coloramarillo
+{background-color:yellow;
+}
+.final{
+    background-color: aqua;
+    width: 100%;
+    height:120px;
+}
