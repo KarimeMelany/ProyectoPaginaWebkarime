@@ -14,7 +14,7 @@
     height: 3000px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: y 10%;
+    background-position-y: 10%;
 }
 .cajacolumnas{
     display: flex;
