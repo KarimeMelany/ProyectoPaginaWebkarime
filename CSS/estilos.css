@@ -51,9 +51,11 @@
 }
 .menusuperior li{
     display: inline;
-    padding: 5px;
-    border-right: solid 2px black; 
+    padding: 5px; 
 }
+.bordederecho
+{
+border-right: solid 2px black;} 
 .menusuperior 
 {text-transform: uppercase;
 font-weight: bold;
